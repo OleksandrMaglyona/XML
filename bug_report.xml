@@ -5,5 +5,5 @@
 <str>open website... verify that website doesn't open</str>
 <severity>S1</severity>
 <priority>P1</priority>
-<status>Open</open>
+<status>Open</status>
 </bugreport>
