@@ -1,3 +1,9 @@
 <bugreport>
-<description>The vebsite www... doesn't open</description>
+<summary> The website www... doesn't open</summary>
+<project>LookUp</project>
+<version>3.21</version>
+<str>open website... verify that website doesn't open</str>
+<severity>S1</severity>
+<priority>P1</priority>
+<status>Open</open>
 </bugreport>
